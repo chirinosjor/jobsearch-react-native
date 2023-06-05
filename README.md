@@ -1,14 +1,5 @@
-# Expo Router Example
+## How to open and test the app
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+https://expo.dev/@chirinosjor/native?serviceType=classic&distribution=expo-go
 
-## 🚀 How to use
-
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+Inside this link you can scan the QR code and open the app using Expo Go.
